@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://sma1027.github.io/atom.xml" rel="self"/>
+  <link href="http://sma1027.github.io/"/>
+  <updated>2014-09-30T23:36:01-04:00</updated>
+  <id>http://sma1027.github.io/</id>
+  <author>
+    <name><![CDATA[Sofia Ma]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My First Post on Octopress]]></title>
+    <link href="http://sma1027.github.io/blog/2014/09/30/my-first-post-on-octopress/"/>
+    <updated>2014-09-30T23:32:07-04:00</updated>
+    <id>http://sma1027.github.io/blog/2014/09/30/my-first-post-on-octopress</id>
+    <content type="html"><![CDATA[<p>&ldquo;Hello, World&rdquo;</p>
+]]></content>
+  </entry>
+  
+</feed>
